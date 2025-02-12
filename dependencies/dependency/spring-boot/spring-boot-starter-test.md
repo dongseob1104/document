@@ -22,7 +22,7 @@
 * Gradle
 
 ```Gradle
-testImplementation 'org.springframework.boot:spring-boot-starter-test'
+testImplementation 'org.springframework.boot:spring-boot-starter-test:version'
 ```
 
 ---
@@ -40,4 +40,10 @@ testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
 ---
 
-### 🏠 [이동하기](../../README.md)
+## 레퍼런스
+
+[[Spring] 스프링 부트에서 테스트 코드 작성하기](https://bezzang2.tistory.com/139)
+
+---
+
+### 🏠 [이동하기](../../../README.md)

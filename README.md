@@ -8,4 +8,6 @@
 
 ### 🔖 문서 목록
 
-- #### [종속성](./dependencies/dependencies.md)
+- #### [종속성](./dependencies/index.md)
+
+- #### [용어](./terminology/index.md)
