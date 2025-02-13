@@ -22,19 +22,16 @@
 
 ```xml
 ※ 참고 사항
-
-<dependency>
+ <dependencyManagement>
+  <dependencies>
+   <!-- 라이브러리 내에 logback 포함하고 있어 Log4j2 충돌 발생 해결 -->
+   <dependency>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-web</artifactId>
-    <version>{version}</version>
-    <exclusions>
-        <!-- logback 포함하고 있어 제외해야 함 -->
-        <exclusion>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-logging</artifactId>
-        </exclusion>
-   </exclusions>
-</dependency>
+    <artifactId>spring-boot-starter-logging</artifactId>
+    <scope>provided</scope>
+   </dependency>
+  </dependencies>
+ </dependencyManagement>
 ```
 
 * Gradle
