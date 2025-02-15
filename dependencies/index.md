@@ -6,7 +6,7 @@
 
 ---
 
-## 의존 목록
+## 종속 목록
 
 |이름|
 |----|
@@ -18,12 +18,15 @@
 | [spring-boot-docker-compose](./dependency/spring-boot/spring-boot-docker-compose.md) |
 | [spring-boot-starter-cache](./dependency/spring-boot/spring-boot-starter-cache.md) |
 | [spring-boot-starter-log4j2](./dependency/spring-boot/spring-boot-starter-log4j2.md) |
+| [spring-boot-starter-logging](./dependency/spring-boot/spring-boot-starter-logging.md) |
 | [spring-boot-starter-parent](./dependency/spring-boot/spring-boot-starter-parent.md) |
 | [spring-boot-starter-test](./dependency/spring-boot/spring-boot-starter-test.md) |
 | [spring-boot-starter-web-services](./dependency/spring-boot/spring-boot-starter-web-services.md) |
 | [spring-boot-starter-web](./dependency/spring-boot/spring-boot-starter-web.md) |
 | [spring-boot-starter-webflux](./dependency/spring-boot/spring-boot-starter-webflux.md) |
 | [spring-boot-starter-websocket](./dependency/spring-boot/spring-boot-starter-websocket.md) |
+| [spring-boot-starter](./dependency/spring-boot/spring-boot-starter.md) |
+| [disruptor](./dependency/third-party/disruptor.md) |
 | [httpclient5](./dependency/third-party/httpclient5.md) |
 | [jackson-dataformat-yaml](./dependency/third-party/jackson-dataformat-yaml.md) |
 | [log4jdbc-log4j2-jdbc4.1](./dependency/third-party/log4jdbc-log4j2-jdbc4.1.md) |

@@ -6,7 +6,7 @@
 
 ---
 
-## 의존성 추가
+## 종속성 추가
 
 * Maven
 
@@ -56,7 +56,7 @@ implementation 'org.apache.httpcomponents.client5:httpclient5:version'
 
 ## 레퍼런스
 
-[Spring Boot 3.x 업그레이드 시 Apache HttpClient 의존성 문제](https://velog.io/@chiyongs/Spring-Boot-3.x-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%8B%9C-Apache-HttpClient-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%AC%B8%EC%A0%9C)
+[Spring Boot 3.x 업그레이드 시 Apache HttpClient 종속성 문제](https://velog.io/@chiyongs/Spring-Boot-3.x-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%8B%9C-Apache-HttpClient-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%AC%B8%EC%A0%9C)
 
 ---
 

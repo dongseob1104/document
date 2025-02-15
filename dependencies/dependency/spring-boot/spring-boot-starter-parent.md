@@ -8,7 +8,7 @@
 
 ---
 
-## 의존성 추가
+## 종속성 추가
 
 * Maven
 
@@ -30,7 +30,7 @@ implementation 'org.springframework.boot:spring-boot-starter-parent:version'
 
 ## 주요 기능
 
-* 공통된 의존성(Dependency) 버전 관리
+* 공통된 종속성(Dependency) 버전 관리
 * 기본적인 플러그인 설정 제공
 * 전역 속성(Property) 관리 제공
 * BOM(Bill of Materials)을 활용해 종속성 버전을 일괄 자동 관리 지원

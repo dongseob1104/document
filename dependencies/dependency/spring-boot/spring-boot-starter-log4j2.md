@@ -1,6 +1,6 @@
 # [spring-boot-starter-log4j2](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-log4j2)
 
-> Spring boot에 로깅 프레임워크 제공
+> log4j2 제공
 >
 > log4j의 업그레이드 버전
 >
@@ -8,7 +8,7 @@
 
 ---
 
-## 의존성 추가
+## 종속성 추가
 
 * Maven
 
