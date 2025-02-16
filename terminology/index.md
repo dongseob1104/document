@@ -9,6 +9,7 @@
 |이름|
 |----|
 | [커넥션 풀링](./collect/connection-pooling.md) |
+| [교차 출처 리소스 공유](./collect/cors.md) |
 
 ---
 
