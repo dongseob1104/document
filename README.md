@@ -10,4 +10,4 @@
 
 - #### [종속성](./dependencies/index.md)
 
-- #### [용어](./terminology/index.md)
+- #### [용어](./technical-term/index.md)

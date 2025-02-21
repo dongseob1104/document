@@ -1,4 +1,4 @@
-# 교차 출처 리소스 공유(Cross-Origin Resource Sharing)
+# 교차 출처 리소스 공유 (Cross-Origin Resource Sharing)
 
 > 한 도메인에서 실행 중인 웹 애플리케이션이 다른 도메인에서 리소스를 요청할 수 있게 하는 보안 기능
 >
